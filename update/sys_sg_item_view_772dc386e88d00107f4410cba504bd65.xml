@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="MADMAX DEMO APP Message">7f2d8f46e88d00107f4410cba504bd4a</data_item>
+        <dependency_fields>active,message,number</dependency_fields>
+        <item_view_json>{"Alignment":"Stretch","Distribution":"Auto","studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Children":[{"Alignment":"Stretch","Distribution":"Equal","Children":[{"Alignment":"Left","Distribution":"Auto","Children":[{"TextColor":"#293e40","CornerRadius":2,"CellId":"active","TextAlignment":"Center","MaxLines":1,"studio_template_field_id":"E1","Text":"","BackgroundColor":"#f1f1f1","Font":{"Size":13,"Weight":"semibold"},"Width":100,"Height":21,"Type":"Text"}],"Orientation":"Vertical","Margin":{"Right":12},"Type":"ViewGroup"},{"Alignment":"Right","Distribution":"Auto","Children":[{"TextColor":"#7d8a8c","CellId":"message","TextAlignment":"Right","MaxLines":1,"studio_template_field_id":"E2","Text":"","Font":{"Size":13,"Weight":"regular"},"Type":"Text"}],"Orientation":"Vertical","Type":"ViewGroup"}],"Orientation":"Horizontal","Type":"ViewGroup"},{"TextColor":"#293e40","CellId":"number","TextAlignment":"Left","MaxLines":2,"studio_template_field_id":"E3","Text":"","Font":{"Size":18,"Weight":"regular"},"Margin":{"Top":9},"Type":"Text"},{"Alignment":"Left","Distribution":"Auto","Children":[{"Alignment":"Center","Distribution":"Auto","Children":[{"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","Text":"","Font":{"Size":13,"Weight":"regular"},"studio_template_is_label":true,"Margin":{"Right":8},"Type":"Text"},{"CornerRadius":11,"CellId":"","Scaling":"Fill","studio_template_field_id":"E5","Width":22,"Height":22,"Margin":{"Right":6},"Type":"Image"},{"TextColor":"#293e40","CellId":"","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","Text":"","Font":{"Size":13,"Weight":"regular"},"Type":"Text"}],"Orientation":"Horizontal","Margin":{"Top":9},"Type":"ViewGroup"},{"Alignment":"Center","Distribution":"Auto","Children":[{"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","Text":"","Font":{"Size":13,"Weight":"regular"},"studio_template_is_label":true,"Margin":{"Right":8},"Type":"Text"},{"TextColor":"#293e40","CellId":"","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","Text":"","Font":{"Size":13,"Weight":"regular"},"Type":"Text"}],"Orientation":"Horizontal","Margin":{"Top":7},"Type":"ViewGroup"}],"Orientation":"Vertical","Type":"ViewGroup"}],"Orientation":"Vertical","Margin":{"Top":17,"Bottom":15},"Type":"ViewGroup"}</item_view_json>
+        <name>Message List Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 00:05:32</sys_created_on>
+        <sys_id>772dc386e88d00107f4410cba504bd65</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Message List Screen Item View</sys_name>
+        <sys_package display_value="MADMAX DEMO APP" source="x_snc_madmax_demo">018b4b06e88d00107f4410cba504bd90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MADMAX DEMO APP">018b4b06e88d00107f4410cba504bd90</sys_scope>
+        <sys_update_name>sys_sg_item_view_772dc386e88d00107f4410cba504bd65</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 00:05:32</sys_updated_on>
+        <table>x_snc_madmax_demo_message</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=772dc386e88d00107f4410cba504bd65"/>
+</record_update>

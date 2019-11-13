@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Message)">3f2dc386e88d00107f4410cba504bd70</button>
+        <item_parameter display_value="Message active">ff2dc386e88d00107f4410cba504bd6e</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 00:05:33</sys_created_on>
+        <sys_id>772dc386e88d00107f4410cba504bd73</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ff2dc386e88d00107f4410cba504bd6e</sys_name>
+        <sys_package display_value="MADMAX DEMO APP" source="x_snc_madmax_demo">018b4b06e88d00107f4410cba504bd90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MADMAX DEMO APP">018b4b06e88d00107f4410cba504bd90</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_772dc386e88d00107f4410cba504bd73</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 00:05:33</sys_updated_on>
+        <ui_parameter display_value="Active">332dc386e88d00107f4410cba504bd71</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

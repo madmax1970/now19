@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="MADMAX DEMO APP">2f2d8f46e88d00107f4410cba504bd48</applet_launcher>
+        <icon display_value="Home MADMAX DEMO APP">fb2d8f46e88d00107f4410cba504bd49</icon>
+        <label>MADMAX DEMO APP</label>
+        <roles>x_snc_madmax_demo.hello_users</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 00:05:32</sys_created_on>
+        <sys_id>bb2d8f46e88d00107f4410cba504bd49</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MADMAX DEMO APP</sys_name>
+        <sys_package display_value="MADMAX DEMO APP" source="x_snc_madmax_demo">018b4b06e88d00107f4410cba504bd90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MADMAX DEMO APP">018b4b06e88d00107f4410cba504bd90</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_bb2d8f46e88d00107f4410cba504bd49</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 00:05:32</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_new_menu_item">
+    <sys_aw_new_menu_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <sys_class_name>sys_aw_new_menu_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 00:06:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>db4d4786e88d00107f4410cba504bd70</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_madmax_demo_message</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MADMAX DEMO APP" source="x_snc_madmax_demo">018b4b06e88d00107f4410cba504bd90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MADMAX DEMO APP">018b4b06e88d00107f4410cba504bd90</sys_scope>
+        <sys_update_name>sys_aw_new_menu_item_db4d4786e88d00107f4410cba504bd70</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 00:06:03</sys_updated_on>
+        <table>x_snc_madmax_demo_message</table>
+        <workspace_config display_value="MADMAX DEMO APP">724d0386e88d00107f4410cba504bdb2</workspace_config>
+    </sys_aw_new_menu_item>
+</record_update>

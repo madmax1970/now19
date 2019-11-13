@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 00:06:05</sys_created_on>
+        <sys_id>ef4d4786e88d00107f4410cba504bdbd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>now.workspace.madmax_demo_app.madmax_demo_app</sys_name>
+        <sys_package display_value="MADMAX DEMO APP" source="x_snc_madmax_demo">018b4b06e88d00107f4410cba504bd90</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MADMAX DEMO APP">018b4b06e88d00107f4410cba504bd90</sys_scope>
+        <sys_security_acl display_value="now.workspace.madmax_demo_app">ab4d4786e88d00107f4410cba504bdb4</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ef4d4786e88d00107f4410cba504bdbd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 00:06:05</sys_updated_on>
+        <sys_user_role display_value="madmax_demo_app" name="madmax_demo_app">a74d4786e88d00107f4410cba504bdb9</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
